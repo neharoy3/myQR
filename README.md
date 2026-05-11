@@ -1,4 +1,5 @@
 # 🔗 myQR
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_red.svg)](https://myqrneharoy3.streamlit.app/)
 
 A simple, custom QR code generator built to explore **Streamlit** and **Pillow**. This app allows you to create scannable QR codes with custom colors and center-aligned logos.
 
